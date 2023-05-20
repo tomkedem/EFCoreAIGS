@@ -1,0 +1,14 @@
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\bin\Debug\net7.0\EFCoreAIGS.Data.deps.json
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\bin\Debug\net7.0\EFCoreAIGS.Data.runtimeconfig.json
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\bin\Debug\net7.0\EFCoreAIGS.Data.dll
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\bin\Debug\net7.0\EFCoreAIGS.Data.pdb
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.AssemblyInfo.cs
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.dll
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\refint\EFCoreAIGS.Data.dll
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.pdb
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\EFCoreAIGS.Data.genruntimeconfig.cache
+C:\Users\Tom\Desktop\MyGoal\C#\EntityFramework\EFCoreAIGS\EFCoreAIGS.Data\obj\Debug\net7.0\ref\EFCoreAIGS.Data.dll
